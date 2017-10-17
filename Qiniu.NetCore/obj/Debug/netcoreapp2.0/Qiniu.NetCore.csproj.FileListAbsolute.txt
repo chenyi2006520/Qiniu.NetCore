@@ -1,0 +1,9 @@
+D:\ROOM\Netnr.Framework\Qiniu.NetCore\bin\Debug\netcoreapp2.0\Qiniu.NetCore.deps.json
+D:\ROOM\Netnr.Framework\Qiniu.NetCore\bin\Debug\netcoreapp2.0\Qiniu.NetCore.dll
+D:\ROOM\Netnr.Framework\Qiniu.NetCore\obj\Debug\netcoreapp2.0\Qiniu.NetCore.csprojResolveAssemblyReference.cache
+D:\ROOM\Netnr.Framework\Qiniu.NetCore\obj\Debug\netcoreapp2.0\Qiniu.NetCore.csproj.CoreCompileInputs.cache
+D:\ROOM\Netnr.Framework\Qiniu.NetCore\obj\Debug\netcoreapp2.0\Qiniu.NetCore.AssemblyInfoInputs.cache
+D:\ROOM\Netnr.Framework\Qiniu.NetCore\obj\Debug\netcoreapp2.0\Qiniu.NetCore.AssemblyInfo.cs
+D:\ROOM\Netnr.Framework\Qiniu.NetCore\bin\Debug\netcoreapp2.0\Qiniu.NetCore.pdb
+D:\ROOM\Netnr.Framework\Qiniu.NetCore\obj\Debug\netcoreapp2.0\Qiniu.NetCore.dll
+D:\ROOM\Netnr.Framework\Qiniu.NetCore\obj\Debug\netcoreapp2.0\Qiniu.NetCore.pdb
